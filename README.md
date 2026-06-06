@@ -22,3 +22,5 @@ To do that, I'm working through the book `impl Rust for RP2350` and completing e
 ## Progress
 
 Each chapter/project will have its own directory containing source code, notes, and lessons learned as I work through the book.
+
+**Happy coding!**
