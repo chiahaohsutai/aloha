@@ -6,7 +6,7 @@ Most of my experience has been in software engineering, backend development, and
 
 To do that, I'm working through the book `impl Rust for RP2350` and completing each project. Along the way, I'll be exploring concepts such as GPIO, PWM, sensors, displays, motors, wireless communication, and embedded programming in Rust.
 
-### Raspberry Pi Pico 2 W Specifications
+### Raspberry Pi Pico 2 WH Specifications
 
 - RP2350 microcontroller
 - Dual-core Arm Cortex-M33 or RISC-V Hazard3 processors
