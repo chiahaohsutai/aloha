@@ -1,6 +1,6 @@
-# Embedded Rust with Raspberry Pi Pico 2 W
+# Baremetal - Embedded Rust with Rasberry Pi Pico 2 WH
 
-This repository documents my journey into embedded systems using Rust and the Raspberry Pi Pico 2 W.
+This repository documents my journey into embedded systems using Rust and the Raspberry Pi Pico 2 WH.
 
 Most of my experience has been in software engineering, backend development, and full-stack applications. While those areas focus on building software that runs on top of operating systems and cloud infrastructure, I wanted to gain a deeper understanding of computing from a lower level by learning how software interacts directly with hardware.
 
