@@ -1,4 +1,4 @@
-# Baremetal - Embedded Rust with Rasberry Pi Pico 2 WH
+# Baremetal
 
 This repository documents my journey into embedded systems using Rust and the Raspberry Pi Pico 2 WH.
 
