@@ -1,5 +1,9 @@
+use std::path::Path;
+
 fn main() {
-    println!("cargo:rustc-link-search={}", env!("CARGO_MANIFEST_DIR"));
+    let manifest_dir = env!("CARGO_MANIFEST_DIR");
+    let workspace_root = Path::new(manifest_dir).parent().unwrap();
+    println!("cargo:rustc-link-search={}", workspace_root.display());
     println!("cargo:rerun-if-changed=memory.x");
     println!("cargo:rustc-link-arg-bins=--nmagic");
     println!("cargo:rustc-link-arg-bins=-Tlink.x");
